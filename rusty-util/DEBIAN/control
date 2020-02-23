@@ -1,0 +1,9 @@
+Package: rusty-util
+Version: 1.0-1
+Section: base
+Priority: optional
+Architecture: x86-64
+Depends: coreutils (>= 5.0-5)
+Maintainer: Eulegang <eulegang@eulegang.dev>
+Description: basic package for installing
+ basic rust utilities

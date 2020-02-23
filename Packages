@@ -1,0 +1,15 @@
+Package: rusty-util
+Version: 1.0-1
+Architecture: x86-64
+Maintainer: Eulegang <eulegang@eulegang.dev>
+Depends: coreutils (>= 5.0-5)
+Filename: ppa/rusty-util_1.0-1_x86-64.deb
+Size: 10313420
+MD5sum: 06db06c25a6b388b2bc951a374fbaa63
+SHA1: 85cbccb90bc0a711f143e0755d368ea088166d8d
+SHA256: fbc17ad92558ee60424e03f3b929e80a66367698acad843924f4953b1ebeed9c
+Section: base
+Priority: optional
+Description: basic package for installing
+ basic rust utilities
+
