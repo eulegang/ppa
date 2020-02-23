@@ -28,3 +28,18 @@ Priority: optional
 Description: basic package for installing
  basic rust utilities
 
+Package: rusty-util
+Version: 1.0-2
+Architecture: amd64
+Maintainer: Eulegang <eulegang@eulegang.dev>
+Depends: coreutils (>= 5.0-5)
+Filename: ./ppa/rusty-util_1.0-2_amd64.deb
+Size: 11356148
+MD5sum: cf0259f765e22795e24f6c6df7fcf534
+SHA1: 6af285137aa621de8ca6decea309b1f5234433d8
+SHA256: 43d55c4d0cdd599b6d7d587874b6d65b87dcd712c9690e4f30b8e06d89c05dd7
+Section: base
+Priority: optional
+Description: basic package for installing
+ basic rust utilities
+
